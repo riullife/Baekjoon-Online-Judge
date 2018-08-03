@@ -1,7 +1,0 @@
-C:\Users\Kim Riul\Documents\Baekjoon-Online-Judge\boj_11650.cpp: In function 'int main()':
-C:\Users\Kim Riul\Documents\Baekjoon-Online-Judge\boj_11650.cpp:19:13: error: 'class std::vector<std::pair<int, int> >' has no member named 'first'
-     cout<<v.first<<' '<<v.second<<'\n';
-             ^~~~~
-C:\Users\Kim Riul\Documents\Baekjoon-Online-Judge\boj_11650.cpp:19:27: error: 'class std::vector<std::pair<int, int> >' has no member named 'second'; did you mean 'end'?
-     cout<<v.first<<' '<<v.second<<'\n';
-                           ^~~~~~
